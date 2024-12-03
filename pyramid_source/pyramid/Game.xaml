@@ -1,0 +1,48 @@
+﻿<Page x:Class="pyramid.GAME"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Page2"
+      KeyDown="PageKeyDown"
+      Focusable="True"
+      FocusManager.FocusedElement="{Binding RelativeSource={RelativeSource Self}}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="pack://application:,,,/image/game.png" Stretch="UniformToFill" />
+        </Grid.Background>
+
+        <Label x:Name="time_label" FontSize="24" 
+               HorizontalAlignment="Right" 
+               VerticalAlignment="Top" 
+               Margin="0,10,10,0"
+               Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect Color="White" BlurRadius="0" ShadowDepth="0" Opacity="1" />
+            </Label.Effect>
+        </Label>
+
+        <StackPanel x:Name="game_panel" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <!-- ピラミッド型に配置するテキストボックス -->
+        </StackPanel>
+
+        <StackPanel x:Name="cover_panel" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <!-- カバーがここに動的に追加されます -->
+        </StackPanel>
+
+        <StackPanel x:Name="start_label" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <TextBlock
+                   Text="スペースキーでスタート"
+                   FontSize="20"
+                   Foreground="Red"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"/>
+
+            <TextBlock
+                Text="(全角になっている場合は半角に戻してからスペースキーでスタート)"
+                FontSize="20"
+                Foreground="Red"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom"/>
+        </StackPanel>
+    </Grid>
+</Page>

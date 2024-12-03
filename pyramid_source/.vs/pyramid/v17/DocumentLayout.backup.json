@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\score.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\score.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\score.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\score.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\deletewindowpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\deletewindowpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\deletewindowpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\deletewindowpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\deletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\deletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\deletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\deletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\confirmation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\confirmation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\confirmation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\confirmation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|c:\\users\\fk100\\desktop\\pyramidapp\\pyramid_source\\pyramid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB4F1F34-F96C-49E5-9254-35FD1700196F}|pyramid\\pyramid.csproj|solutionrelative:pyramid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Start.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Start.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\Start.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Start.xaml.cs*",
+              "RelativeToolTip": "pyramid\\Start.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:34:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Start.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Start.xaml",
+              "RelativeDocumentMoniker": "pyramid\\Start.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Start.xaml*",
+              "RelativeToolTip": "pyramid\\Start.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T17:34:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "score.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\score.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\score.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\score.xaml.cs*",
+              "RelativeToolTip": "pyramid\\score.xaml.cs*",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwIIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:33:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "score.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\score.xaml",
+              "RelativeDocumentMoniker": "pyramid\\score.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\score.xaml*",
+              "RelativeToolTip": "pyramid\\score.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T17:32:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "pyramid\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:32:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pyramid\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\MainWindow.xaml*",
+              "RelativeToolTip": "pyramid\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T17:31:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Game.xaml",
+              "RelativeDocumentMoniker": "pyramid\\Game.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Game.xaml",
+              "RelativeToolTip": "pyramid\\Game.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T17:30:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteWindowPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindowPage.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\DeleteWindowPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindowPage.xaml.cs",
+              "RelativeToolTip": "pyramid\\DeleteWindowPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:30:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteWindowPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindowPage.xaml",
+              "RelativeDocumentMoniker": "pyramid\\DeleteWindowPage.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindowPage.xaml",
+              "RelativeToolTip": "pyramid\\DeleteWindowPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T17:29:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Confirmation.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Confirmation.xaml",
+              "RelativeDocumentMoniker": "pyramid\\Confirmation.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Confirmation.xaml",
+              "RelativeToolTip": "pyramid\\Confirmation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T16:57:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\DeleteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindow.xaml.cs",
+              "RelativeToolTip": "pyramid\\DeleteWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:58:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Game.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\Game.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Game.xaml.cs",
+              "RelativeToolTip": "pyramid\\Game.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:58:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\App.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\App.xaml.cs",
+              "RelativeToolTip": "pyramid\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:27:43.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\App.xaml",
+              "RelativeDocumentMoniker": "pyramid\\App.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\App.xaml",
+              "RelativeToolTip": "pyramid\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T17:27:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindow.xaml",
+              "RelativeDocumentMoniker": "pyramid\\DeleteWindow.xaml",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\DeleteWindow.xaml",
+              "RelativeToolTip": "pyramid\\DeleteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T16:58:10.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Confirmation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Confirmation.xaml.cs",
+              "RelativeDocumentMoniker": "pyramid\\Confirmation.xaml.cs",
+              "ToolTip": "C:\\Users\\fk100\\Desktop\\pyramidApp\\pyramid_source\\pyramid\\Confirmation.xaml.cs",
+              "RelativeToolTip": "pyramid\\Confirmation.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:57:40.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
