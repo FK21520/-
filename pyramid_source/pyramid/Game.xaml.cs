@@ -12,7 +12,7 @@ namespace pyramid
         //難易度をクラス内で渡す
         private string _param;
 
-        private int rows = 6; // ピラミッドの行数
+        private int rows = 5; // ピラミッドの行数
         private List<List<TextBox>> text_boxes = new List<List<TextBox>>();//テキストボックス
         private int current_row;
         private int current_col;

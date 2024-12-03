@@ -60,7 +60,7 @@ namespace pyramid {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/pyramid;component/start.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/pyramid;V1.0.0.0;component/start.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Start.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
